@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284907432923",
+    "project_id": "snapfusion-720ae",
+    "storage_bucket": "snapfusion-720ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284907432923:android:3831195e6cb2a217f895fe",
+        "android_client_info": {
+          "package_name": "com.snapfusion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIcmIzuGGop30-RT1oYOhnxeEGRFPK2tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
